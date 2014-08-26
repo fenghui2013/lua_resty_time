@@ -21,5 +21,6 @@ build
 usage
 =====
 
-.. code:: lua
+::
+
     lua test.lua
